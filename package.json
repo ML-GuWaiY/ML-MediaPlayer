@@ -1,0 +1,12 @@
+{
+  "name": "ml-mediaplayer",
+  "version": "1.0.0",
+  "description": "Ml Media player is a software application designed to play digital video files, supporting various formats such as MP4, AVI, and MKV. It offers features like playback controls, streaming capabilities, and customization options for an enhanced viewing experience. Typically, it is cross-platform compatible, ensuring smooth operation on different operating systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Media Player"],
+  "author": "Sijan Lamichhane Magar",
+  "license": "ISC"
+}
